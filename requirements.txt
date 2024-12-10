@@ -2,4 +2,4 @@ flask
 spacy
 pytextrank
 gunicorn
-
+en-core-web-sm==3.5.0
